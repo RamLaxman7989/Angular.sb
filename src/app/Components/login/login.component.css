@@ -1,0 +1,18 @@
+.container-outer{
+    background-image: url("https://media.istockphoto.com/id/1368151370/photo/user-typing-login-and-password-cyber-security-concept.jpg?b=1&s=170667a&w=0&k=20&c=wm6YUMs03Bup4_9XcQaX61L711qJxAUExEJp_PWO8gI=");
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+
+.container{
+    background-color:white;
+    text-align: center;
+    width: 35%;
+    border-radius: 20px;
+}
+
+.forget{
+    font-family: 'Roboto';
+    font-size: 12px;
+}
